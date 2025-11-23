@@ -2,3 +2,7 @@ pygame
 torch
 snntorch
 numpy<2
+ipykernel
+jupyter
+pandas
+matplotlib
