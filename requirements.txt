@@ -1,4 +1,4 @@
 pygame
 torch
 snntorch
-numpy
+numpy<2
