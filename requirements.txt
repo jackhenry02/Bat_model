@@ -6,3 +6,5 @@ ipykernel
 jupyter
 pandas
 matplotlib
+seaborn
+scikit-learn
